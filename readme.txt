@@ -1,1 +1,0 @@
-this website  will allow you to monitor and check the status of your nodes, computers
